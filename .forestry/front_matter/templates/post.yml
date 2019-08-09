@@ -10,24 +10,6 @@ fields:
 - type: file
   name: image
   label: Image
-- type: datetime
-  name: publish
-  label: Date
-  config:
-    required: true
-- type: list
-  name: tags
-  label: Tags
-- type: list
-  name: categories
-  label: categories
-  config:
-    use_select: true
-    source:
-      type: custom
-    options:
-    - dexter
-    - futurama
 - type: text
   name: readingTime
   label: Reading Time
