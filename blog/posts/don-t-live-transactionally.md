@@ -3,6 +3,9 @@ type: post
 title: Don't Live Transactionally
 image: "/images/element5-digital-LTyDj7u_TU4-unsplash.jpg"
 readingTime: 4 minutes
+excerpt: "<p>The world is filled with people who think the world owes them. The world
+  is filled with people keeping track of what they’ve done and what they deserve.
+  And because of that, they live transactionally.</p>"
 
 ---
 You know there’s a story that you’ve heard and read about a young man (a second son) that asks his dad for his inheritance. Culturally, it’s a ridiculous request because it not only doesn’t work that way (inheritance comes when the father passes away), but also because it isn’t something like today where you go to the bank and pull out some money. Lands and animals had to be sold.
