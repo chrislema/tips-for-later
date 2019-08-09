@@ -1,7 +1,7 @@
 ---
 title: Life’s Mantras for Lemas
 image: ''
-publish: 2018-08-20T00:00:00-07:00
+publish: 2018-11-14T00:00:00-08:00
 tags: []
 categories: []
 readingTime: 3 Minutes
