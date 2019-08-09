@@ -3,6 +3,9 @@ type: post
 title: Words to Live By
 image: "/images/annie-spratt-_VxyFCTEpW8-unsplash.jpg"
 readingTime: 3 minutes
+excerpt: "<p>Long before you even knew we were parenting you, your mom and I established
+  a set of things we really cared about. The essentials of what it meant for you to
+  be part of our family.</p>"
 
 ---
 What you know by now, by the time you read this, is that our approach to parenting you has been to teach you lessons by a set of mantras.

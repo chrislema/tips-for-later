@@ -30,9 +30,9 @@ fields:
   config:
     required: true
 pages:
+- blog/posts/words-to-live-by.md
 - blog/posts/stay-curious.md
 - blog/posts/people-count.md
 - blog/posts/nobody-likes-discipline.md
 - blog/posts/don-t-live-transactionally.md
 - blog/posts/a-recommendation-enjoy-being-single.md
-- blog/posts/words-to-live-by.md
