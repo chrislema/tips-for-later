@@ -22,5 +22,6 @@ fields:
   config:
     required: true
 pages:
+- blog/posts/people-count.md
 - blog/posts/nobody-likes-discipline.md
 - blog/posts/words-to-live-by.md
