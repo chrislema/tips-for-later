@@ -1,5 +1,5 @@
 ---
-new_page_extension: html
+new_page_extension: md
 auto_deploy: false
 admin_path: blog/.vuepress/public/admin
 webhook_url: https://api.stackbit.com/project/5d4cf5078af2040012032afd/webhook/forestry
