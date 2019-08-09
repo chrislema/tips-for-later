@@ -1,7 +1,7 @@
 ---
-title: Life’s Mantras for Lemas
+title: The Mantras We Live By
 image: "/images/welcome.jpg"
-publish: 2018-11-14T00:00:00-08:00
+publish: '2018-11-14T08:00:00.000+00:00'
 tags: []
 categories: []
 readingTime: 3 Minutes
