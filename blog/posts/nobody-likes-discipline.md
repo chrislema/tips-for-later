@@ -3,6 +3,8 @@ type: post
 title: Nobody Likes Discipline
 image: "/images/tomasz-wozniak-V62UrdknDCA-unsplash.jpg"
 readingTime: 4 minutes
+excerpt: "<p>Preparing for a game isn’t about just playing the game. Preparing for
+  the game requires us to develop stamina. And stamina requires discipline.</p>"
 
 ---
 When I was in high school, playing on the indoor volleyball team, my coach would take us out to a park where there was a sand volleyball court. Since I had learned to play on sand, I always thought that was awesome.
