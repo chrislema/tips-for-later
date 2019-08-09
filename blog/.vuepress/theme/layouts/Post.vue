@@ -4,8 +4,6 @@
       <article class="post-full" :class="{ 'no-image': !current.image }">
         <header class="post-full-header">
           <section class="post-full-meta">
-            <time class="post-full-meta-date" :datetime="datetime">{{ localeDate }}</time>
-            <span class="date-divider" v-if="primaryTag">/</span>
             <a :href="$withBase(`/tags/${primaryTag}`)" v-if="primaryTag">{{ primaryTag }}</a>
           </section>
           <h1 class="post-full-title">{{ current.title }}</h1>
