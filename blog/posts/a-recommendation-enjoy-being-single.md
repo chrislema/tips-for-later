@@ -5,15 +5,17 @@ image: "/images/cristian-newman-Gy6mIqYxgew-unsplash.jpg"
 readingTime: 2 minutes
 
 ---
-You may find it humorous that a father of a young daughter who has been desperate to date suggests that you should enjoy being single. Every dad out there has the same feelings for their daughters. 
+You may find it humorous that a father of a young daughter who has been desperate to date suggests that you should enjoy being single. Every dad out there has the same feelings for their daughters.
 
-But this isn't that story. 
+    <!--more-->
+
+But this isn't that story.
 
 What you never experienced was your dad before he met your mom. The four years between my divorce from my ex-wife and when I started dating your mom (some 17 years ago now) were some of the most instrumental in my life - all because I was single.
 
 I never told you this, but I had my first girlfriend in Jr High. I know, crazy. And I dated someone almost every day between seventh grade and my first year of college. It was only then that I realized I was terrified of being alone and I really wanted someone always by my side, supporting and (more importantly) accepting me.
 
-For the next couple years in college I didn't date (making your grandma very nervous). 
+For the next couple years in college I didn't date (making your grandma very nervous).
 
 The next part of the story sounds much like the earlier part. The lessons hadn't gone deep enough, and as a result, I stepped into a long-term relationship and when it didn't work, I jumped into another quickly and barely a few months later asked her to marry me.
 
