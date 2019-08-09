@@ -20,5 +20,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- blog/posts/our-family-mantras.html
