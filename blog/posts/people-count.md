@@ -3,6 +3,9 @@ type: post
 title: People Count
 image: "/images/matt-lamers-SPbcqTVoYqE-unsplash.jpg"
 readingTime: 3 minutes
+excerpt: "<p>This was one of those key moments when we all came downstairs for a family
+  meeting. More for you guys than for mom, because she knew it right away. That's
+  when I shared with you an insight.</p>"
 
 ---
 By the time you read this, you may not remember this moment.
