@@ -21,4 +21,5 @@ fields:
   config:
     required: true
 pages:
+- blog/posts/test-post.html
 - blog/posts/futurama/when-will-that-be.md
