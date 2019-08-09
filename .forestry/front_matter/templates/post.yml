@@ -22,4 +22,4 @@ fields:
   config:
     required: true
 pages:
-- blog/posts/Letters/words-to-live-by.html
+- blog/posts/words-to-live-by.md
