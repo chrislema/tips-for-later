@@ -7,8 +7,6 @@ readingTime: 2 minutes
 ---
 You may find it humorous that a father of a young daughter who has been desperate to date suggests that you should enjoy being single. Every dad out there has the same feelings for their daughters.
 
-    <!--more-->
-
 But this isn't that story.
 
 What you never experienced was your dad before he met your mom. The four years between my divorce from my ex-wife and when I started dating your mom (some 17 years ago now) were some of the most instrumental in my life - all because I was single.
