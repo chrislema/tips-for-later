@@ -3,6 +3,9 @@ type: post
 title: Stay Curious
 image: "/images/joseph-rosales-m0yRv0GxkV8-unsplash.jpg"
 readingTime: 1 minute
+excerpt: "<p>The inquisitive, eyes open, constant observing dynamic can easily be
+  distracting if you don’t learn to control it. And if it leaves you distracted all
+  the time, without any focus, you’ll likely find that it’s a hindrance to your success.</p>"
 
 ---
 When you were first born, two things struck everyone in the labor and delivery room.
