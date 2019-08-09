@@ -1,9 +1,10 @@
 ---
 title: About
 type: page
+
 ---
+This is not my primary blog. My main site is [chrislema.com](http://chrislema.com/) where I try to blog regularly – for entrepreneurs, WordPress folks, people who present in public, and product people.
 
-This is an example implementation of [Casper](https://demo.ghost.io) (the default theme for [Ghost](https://ghost.org/de/)) in [Vuepress](https://vuepress.vuejs.org/). Content is generated with [fillerama](http://fillerama.io/), images by [picsum](https://picsum.photos).
+I know – a lot to put in a single blog. But it all comes together in a way I like.
 
-> To use this theme with [Vuepress](https://vuepress.vuejs.org/) please have a look at the [Github Repository](https://github.com/alexander-heimbuch/vuepress-theme-casper). If you find bugs or want to propose changes please create an issue.
-
+I’m a husband to one wife and the father of two children. I work as the VP of Products for a hosting company called [Liquid Web](http://liquidweb.com/).
