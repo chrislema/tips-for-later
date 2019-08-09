@@ -22,4 +22,3 @@ fields:
     required: true
 pages:
 - blog/posts/futurama/when-will-that-be.md
-- blog/posts/test-post.html
