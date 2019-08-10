@@ -42,7 +42,7 @@
 
       backgroundImage () {
         return {
-          'background-image': `url(${cloudinaryurl+this.current.image})`
+          'background-image': `url(${this.current.image})`
         }
       }
     },
