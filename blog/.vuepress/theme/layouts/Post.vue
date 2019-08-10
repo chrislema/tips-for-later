@@ -23,7 +23,8 @@
 </template>
 
 <script>
-  const assetBase = "https://res.cloudinary.com/chrislema/image/upload";
+  const assetBase = "https://res.cloudinary.com/chrislema/image/upload/ar_16:9,c_fill/c_scale,w_auto/c_limit,w_1000";
+  
   import { mapGetters } from 'vuex'
   import { head, kebabCase } from 'lodash'
 
