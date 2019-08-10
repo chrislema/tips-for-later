@@ -23,12 +23,14 @@
 <script>
   import striptags from 'striptags'
 
+  const assetBase = "https://res.cloudinary.com/chrislema/image/upload";
+
   export default {
     props: ['post'],
     computed: {
       imageStyle () {
         return {
-          'background-image': `url(${this.$withBase(this.post.image)})`
+          'background-image': `url(${assetBase}${this.$withBase(this.post.image)})`
         }
       }
     },
