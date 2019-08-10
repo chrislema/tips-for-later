@@ -20,6 +20,8 @@
   import { mapGetters } from 'vuex'
   import { head, kebabCase } from 'lodash'
 
+  const assetBase = "https://res.cloudinary.com/chrislema/image/upload";
+
   export default {
     computed: {
       ...mapGetters(['current']),
@@ -42,7 +44,7 @@
 
       backgroundImage () {
         return {
-          'background-image': `url(${this.current.image})`
+          'background-image': `url(${assetBase}${this.current.image})`
         }
       }
     },
