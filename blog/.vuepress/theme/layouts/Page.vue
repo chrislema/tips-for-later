@@ -42,7 +42,7 @@
 
       backgroundImage () {
         return {
-          'background-image': `https://res.cloudinary.com/chrislema/image/upload/v1565396566/cristian-newman-Gy6mIqYxgew-unsplash_k9kxvc.jpg`
+          'background-image': `url(${this.current.image})`
         }
       }
     },
