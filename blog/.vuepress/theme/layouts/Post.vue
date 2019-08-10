@@ -14,6 +14,9 @@
         <section class="post-full-content">
           <Content class="post-content" />
         </section>
+        <section class="post-convertkit-form">
+         {{ this.convertkit_form }}
+        </section>
       </article>
     </div>
   </main>
