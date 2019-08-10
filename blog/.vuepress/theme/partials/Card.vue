@@ -1,6 +1,6 @@
 <template>
   <article class="post-card" :class="{ 'no-image': !post.image }">
-    <a v-if="post.image" class="post-card-image-link" :href="$withBase(post.path)" aria-label="link to post">
+    <a v-if="post.image" "src="{{ .Site.cloudinary_url }}/{{ .Params.image }}" class="post-card-image-link" :href="$withBase(post.path)" aria-label="link to post">
       <div class="post-card-image" :style="imageStyle"></div>
     </a>
     <div class="post-card-content">
