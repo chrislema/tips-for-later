@@ -1,7 +1,7 @@
 ---
 type: post
 title: People Count
-image: "/images/matt-lamers-SPbcqTVoYqE-unsplash.jpg"
+image: "/v1565396558/matt-lamers-SPbcqTVoYqE-unsplash_jg6o8p.jpg"
 readingTime: 3 minutes
 excerpt: "<p>This was one of those key moments when we all came downstairs for a family
   meeting. More for you guys than for mom, because she knew it right away. That's
