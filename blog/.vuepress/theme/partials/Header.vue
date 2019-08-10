@@ -14,6 +14,8 @@
 </template>
 <script>
   import { mapGetters } from 'vuex'
+  
+  const assetBase = "https://res.cloudinary.com/chrislema/image/upload/ar_16:9,c_fill/c_scale,w_auto/c_limit,w_1000";
 
   export default {
     props: ['header'],
@@ -21,7 +23,7 @@
       backgroundStyle () {
         if (this.header.coverImage) {
           return {
-            'background-image': `url(${this.$withBase(this.header.coverImage)})`
+            'background-image': `url(${assetBase}${this.$withBase(this.header.coverImage)})`
           }
         }
 
