@@ -40,6 +40,7 @@
     "social": {
       "github": "https://github.com/chrislema",
       "twitter": "https://twitter.com/chrislema"
-    }
+    },
+    "cloudinary_url": "\"https://res.cloudinary.com/chrislema/image/upload\""
   }
 }
