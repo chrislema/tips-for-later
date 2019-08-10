@@ -43,5 +43,6 @@
     },
     "cloudinary_url": "\"https://res.cloudinary.com/chrislema/image/upload\""
   },
-  "cloudinaryurl": "https://res.cloudinary.com/chrislema/image/upload"
+  "cloudinaryurl": "https://res.cloudinary.com/chrislema/image/upload",
+  "convertkit_form": "<script async data-uid=\"1d3c1fd055\" src=\"https://f.convertkit.com/1d3c1fd055/740761fd82.js\"></script>"
 }
