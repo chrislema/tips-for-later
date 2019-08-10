@@ -23,7 +23,7 @@
 <script>
   import striptags from 'striptags'
 
-  const assetBase = "https://res.cloudinary.com/chrislema/image/upload";
+  const assetBase = "https://res.cloudinary.com/chrislema/image/upload/f_auto,q_auto,c_fill/";
 
   export default {
     props: ['post'],
