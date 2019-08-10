@@ -21,6 +21,11 @@ fields:
   config:
     required: false
   label: Cloudinary Url
+- name: convertkit_form
+  type: text
+  config:
+    required: false
+  label: ConvertKit Form
 - type: field_group
   name: themeConfig
   label: Theme Config
