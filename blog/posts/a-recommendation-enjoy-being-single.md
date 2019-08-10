@@ -1,7 +1,7 @@
 ---
 type: post
 title: 'A Recommendation: Enjoy Being Single'
-image: "/images/cristian-newman-Gy6mIqYxgew-unsplash.jpg"
+image: "/v1565396566/cristian-newman-Gy6mIqYxgew-unsplash_k9kxvc.jpg"
 readingTime: 2 minutes
 excerpt: "<p>You may find it humorous that a father of a young daughter who has been
   desperate to date suggests that you should enjoy being single. Every dad out there
