@@ -16,6 +16,11 @@ fields:
   label: Base
   description: Base path under which the site will be served
   default: "/vuepress-theme-casper/"
+- name: cloudinaryurl
+  type: text
+  config:
+    required: false
+  label: Cloudinary Url
 - type: field_group
   name: themeConfig
   label: Theme Config
@@ -28,11 +33,6 @@ fields:
     name: logo
     label: Logo
     description: Logo image shown on the home page
-  - name: cloudinary_url
-    type: text
-    config:
-      required: false
-    label: Cloudinary_url
   - type: field_group_list
     name: nav
     label: Top Navigation Menu
