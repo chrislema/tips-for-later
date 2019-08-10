@@ -9,7 +9,7 @@
           <h1 class="post-full-title">{{ current.title }}</h1>
         </header>
 
-        <figure v-if="current.image" class="post-full-image" :style="backgroundImage"></figure>
+        <figure v-if="current.image" :src="site.cloudinary_url+'/'+current.image" class="post-full-image" :style="backgroundImage"></figure>
 
         <section class="post-full-content">
           <Content class="post-content" />
