@@ -1,7 +1,7 @@
 ---
 type: post
 title: Nobody Likes Discipline
-image: "/images/tomasz-wozniak-V62UrdknDCA-unsplash.jpg"
+image: "/v1565396557/tomasz-wozniak-V62UrdknDCA-unsplash_srhupo.jpg"
 readingTime: 4 minutes
 excerpt: "<p>Preparing for a game isn’t about just playing the game. Preparing for
   the game requires us to develop stamina. And stamina requires discipline.</p>"
