@@ -21,7 +21,7 @@
       backgroundStyle () {
         if (this.header.coverImage) {
           return {
-            'background-image': `url(${this.$withBase(this.header.coverImage)})`
+            'background-image': `url(${this.$cloudinary_url(this.header.coverImage)})`
           }
         }
 
