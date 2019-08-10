@@ -1,7 +1,7 @@
 ---
 type: post
 title: Don't Live Transactionally
-image: "/images/element5-digital-LTyDj7u_TU4-unsplash.jpg"
+image: "/v1565396557/element5-digital-LTyDj7u_TU4-unsplash_paqqg5.jpg"
 readingTime: 4 minutes
 excerpt: "<p>The world is filled with people who think the world owes them. The world
   is filled with people keeping track of what they’ve done and what they deserve.
