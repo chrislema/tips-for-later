@@ -23,6 +23,7 @@
 </template>
 
 <script>
+  const assetBase = "https://res.cloudinary.com/chrislema/image/upload";
   import { mapGetters } from 'vuex'
   import { head, kebabCase } from 'lodash'
 
@@ -48,7 +49,7 @@
 
       backgroundImage () {
         return {
-          'background-image': `url(${this.$withBase(this.current.image)})`
+          'background-image': `url(${assetBase}${this.$withBase(this.current.image)})`
         }
       }
     },
