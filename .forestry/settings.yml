@@ -29,17 +29,16 @@ sections:
   match: "**/*.md"
   templates:
   - post
-upload_dir: blog/.vuepress/public/images
-public_path: "/images"
+upload_dir: ''
+public_path: https://res.cloudinary.com/chrislema/image/upload
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:"
+instant_preview: false
 build:
-  preview_command: gatsby build
-  publish_command: gatsby build
   preview_output_directory: public
-  output_directory: public
   install_dependencies_command: yarn install
   preview_docker_image: node:10
   mount_path: "/srv"
   instant_preview_command: npm run forestry:preview
+  preview_command: gatsby build
