@@ -28,6 +28,11 @@ fields:
     name: logo
     label: Logo
     description: Logo image shown on the home page
+  - name: cloudinary_url
+    type: text
+    config:
+      required: false
+    label: Cloudinary_url
   - type: field_group_list
     name: nav
     label: Top Navigation Menu
