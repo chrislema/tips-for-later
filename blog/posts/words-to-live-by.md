@@ -1,7 +1,7 @@
 ---
 type: post
 title: Words to Live By
-image: "/images/annie-spratt-_VxyFCTEpW8-unsplash.jpg"
+image: "/v1565396557/annie-spratt-_VxyFCTEpW8-unsplash_f51ors.jpg"
 readingTime: 3 minutes
 excerpt: "<p>Long before you even knew we were parenting you, your mom and I established
   a set of things we really cared about. The essentials of what it meant for you to
