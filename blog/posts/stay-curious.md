@@ -1,7 +1,7 @@
 ---
 type: post
 title: Stay Curious
-image: "/images/joseph-rosales-m0yRv0GxkV8-unsplash.jpg"
+image: "/v1565396557/joseph-rosales-m0yRv0GxkV8-unsplash_lxgh3u.jpg"
 readingTime: 1 minute
 excerpt: "<p>The inquisitive, eyes open, constant observing dynamic can easily be
   distracting if you don’t learn to control it. And if it leaves you distracted all
