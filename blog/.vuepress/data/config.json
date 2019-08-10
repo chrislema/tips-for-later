@@ -42,5 +42,6 @@
       "twitter": "https://twitter.com/chrislema"
     },
     "cloudinary_url": "\"https://res.cloudinary.com/chrislema/image/upload\""
-  }
+  },
+  "cloudinaryurl": "https://res.cloudinary.com/chrislema/image/upload"
 }
