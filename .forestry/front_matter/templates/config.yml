@@ -16,16 +16,6 @@ fields:
   label: Base
   description: Base path under which the site will be served
   default: "/vuepress-theme-casper/"
-- name: cloudinaryurl
-  type: text
-  config:
-    required: false
-  label: Cloudinary Url
-- name: convertkit_form
-  type: text
-  config:
-    required: false
-  label: ConvertKit Form
 - type: field_group
   name: themeConfig
   label: Theme Config
