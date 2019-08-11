@@ -14,9 +14,6 @@
         <section class="post-full-content">
           <Content class="post-content" />
         </section>
-        <section class="post-convertkit-form">
-         ${convertKitForm}
-        </section>
       </article>
     </div>
   </main>
@@ -24,7 +21,6 @@
 
 <script>
   const assetBase = "https://res.cloudinary.com/chrislema/image/upload/ar_16:9,c_fill/c_scale,w_auto/c_limit,w_1000";
-  const convertKitForm ="<script async data-uid="1d3c1fd055" src="https://f.convertkit.com/1d3c1fd055/740761fd82.js"></script>";
   
   import { mapGetters } from 'vuex'
   import { head, kebabCase } from 'lodash'
