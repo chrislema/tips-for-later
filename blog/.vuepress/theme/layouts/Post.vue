@@ -47,7 +47,7 @@
 
       backgroundImage () {
         return {
-          'background-image': `url(${assetBase}${this.$withBase(this.current.image)})`
+          'background-image': `url(${this.$withBase(this.current.image)})`
         }
       }
     },
