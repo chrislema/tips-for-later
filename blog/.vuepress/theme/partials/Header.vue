@@ -23,7 +23,7 @@
       backgroundStyle () {
         if (this.header.coverImage) {
           return {
-            'background-image': `url(${this.$withBase(this.header.coverImage)})`
+            'background-image': `url(${assetBase}${this.$withBase(this.header.coverImage)})`
           }
         }
 
