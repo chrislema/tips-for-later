@@ -31,7 +31,7 @@ sections:
   - post
 upload_dir: ''
 public_path: https://res.cloudinary.com/chrislema/image/upload
-front_matter_path: https://res.cloudinary.com/chrislema/image/upload/ar_16:9,c_fill/c_scale,w_auto/c_limit,w_1000
+front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
 instant_preview: false
