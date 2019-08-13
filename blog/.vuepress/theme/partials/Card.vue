@@ -30,7 +30,7 @@
     computed: {
       imageStyle () {
         return {
-          'background-image': `url(${this.$withBase(this.post.image)})`
+          'background-image': `url(${assetBase}${this.$withBase(this.post.image)})`
         }
       }
     },
